@@ -6,7 +6,7 @@ import Cards from "./components/Cards.jsx";
 import Tournaments from "./pages/Tournaments.jsx";
 import GamingGear from "./pages/GamingGear.jsx";
 import LatestNews from "./pages/LatestNews.jsx";
-import Scoreboard from "./pages/ScoreBoard.jsx";
+import Scoreboard from "./pages/Scoreboard.jsx";
 import Live from "./pages/Live.jsx";
 import Community from "./pages/Community.jsx";
 import Home from "./pages/Home.jsx";
