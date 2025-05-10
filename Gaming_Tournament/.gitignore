@@ -23,7 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-rm "public/cs2 vid.mp4"
-rm "public/valo vid.mp4"
-
-/public/.mp4
