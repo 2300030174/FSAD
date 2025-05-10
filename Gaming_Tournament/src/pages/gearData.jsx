@@ -7,7 +7,7 @@ const gamingGear = [
     { name: "Logitech G Pro X Keyboard", price: "₹12999", img: "Logitech G Pro X Keyboard.jpg" },
     { name: "SteelSeries Arctis 7 Headset", price: "₹15999", img: "SteelSeries Arctis 7 Headset.jpg" },
     { name: "HyperX Cloud II Headset", price: "₹8999", img: "HyperX Cloud II Headset.jpg" },
-    { name: "Corsair K70 RGB Keyboard", price: "₹13999", img: "Corsair K70 RGB Keyboard.jpg" },
+    { name: "Corsair K70 RGB Keyboard", price: "₹13999", img: "corsair-k70-rgb-keyboard.jpg" },
   ];
   
   // Function to get all gaming gear items
